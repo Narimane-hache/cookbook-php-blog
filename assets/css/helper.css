@@ -1,0 +1,57 @@
+/* color palette */
+/* colors */
+.gold{
+    color: #C9B15E;
+}
+.darkBlue{
+    color: #566777;
+}
+.lightGray{
+    color: #e1ded7;
+}
+.lighterGray{
+    color: #f1eee7;
+}
+.babyPink{
+    color: #f0d2d0;
+}
+.creamWhite{
+    color: #F4EBE6;
+}
+.Pgray{
+    color : #b79d9d;
+}
+/* bg colors */
+.bg_gold{
+    background-color: #C9B15E;
+}
+.bg_darkBlue{
+    background-color: #566777;
+}
+.bg_lightGray{
+    background-color: #e1ded7;
+}
+.lighterGray{
+    background-color: #f1eee7;
+}
+.bg_babyPink{
+    background-color: #f0d2d0;
+}
+.bg_creamWhite{
+    background-color: #F4EBE6;
+}
+.bg_Pgray{
+    background-color : #b79d9d;
+}
+/* font */
+.prata{ 
+    font-family: 'Prata', serif;
+}
+.lato{
+    font-family: 'Lato', sans-serif;
+}
+/*  */
+.text-align-right{
+    text-align: right;
+}
+
